@@ -28,4 +28,4 @@
 
 ## Технологии
 
-Python, pandas, NumPy, SciPy, matplotlib, seaborn, регулярные выражения
+Python, pandas, NumPy, SciPy, matplotlib, seaborn
